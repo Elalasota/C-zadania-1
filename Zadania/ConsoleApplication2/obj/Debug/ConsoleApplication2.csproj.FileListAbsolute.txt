@@ -1,0 +1,6 @@
+D:\Studia\SKN\Zadania\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Studia\SKN\Zadania\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Studia\SKN\Zadania\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Studia\SKN\Zadania\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Studia\SKN\Zadania\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Studia\SKN\Zadania\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
